@@ -1,1 +1,19 @@
-# Motivations-for-Studying-Physics
+# Motivations for Studying Physics
+
+I think there are roughly three kinds of motivations for liking physics:
+
+1. To understand the composition and dynamical rules of our universe;
+
+2. To use natural laws to carry out engineering—including experimental observation and everyday applications—and thereby benefit humanity;
+
+3. To obtain a job, income, social status, benefits, or even a kind of intellectual superiority.
+
+Most people who like physics have a mixture of these three motivations. Starting from the first, if one stays in the scientific community, one enters the third layer; and those who can stay in the third layer while still preserving the original intention of the first layer seem to be few.
+
+The scientific community is a cognitive and interest community bound together on the basis of the shared interests of the third layer; in essence it is still an interest community. It naturally has a defense mechanism against questions raised by people with the first kind of motivation regarding the existing mainstream paradigm—that is, it will naturally repel challenges to the existing mainstream. This is the deep source of "shut up and calculate," or rather, using the PUA-style phrase "shut up and calculate" as a probe allows one to test the defense mechanism and interest orientation of the physics community. For if the scientific community held the standpoint of the first kind of motivation, it would not say things like "shut up and calculate," which abandon understanding and ontological explanation; nor would such purely calculational instrumentalism become the dominant doctrine of a discipline.
+
+How should we understand the consensus of the scientific community? A finite number of phenomena can be fitted by countless mathematical models—so why is it those few mathematical models in the textbooks? Those few in the textbooks are the consensus of the scientific community. The form of this consensus involves random factors in the history of scientific development, the attraction of mathematical simplicity and beauty, or greater success in predicting and extrapolating new phenomena—but none of these is actually the criterion for the uniqueness of those textbook mathematical models as explanations of the phenomena. Yet the peer-review mechanism in practice reinforces consensus and repels non-consensus modeling, which leads to convergent evolution; and convergent evolution is detrimental to scientific development. Therefore I say that the scientific community is first of all an interest community, ensuring that those already at the table can continue to consolidate their discursive power, while those below the table find it hard to get a seat easily. This is in fact a microcosm of the evolutionary laws of human society; this mechanism emerged through natural evolution.
+
+Doing the second kind well—that is, through precise mastery of laws, carrying out engineering applications—is generally the rational choice of ordinary people who have both the ability and the perseverance to stick with it. For within the circle of the third kind, those who can have discursive power are actually very few, and this depends heavily on a closed master-disciple system. To give a realistic example: many people study physics, but how many can obtain "hat" titles and status? Without a circle, one will most likely remain a small transparent figure all along—professional titles, grant applications, publication in top journals, and the number of citations and influence after publication all in practice depend heavily on circle culture. And without engineering practice, a deeper understanding of the first kind is in fact also difficult to confirm or falsify.
+
+Physics is a discipline that infers laws from phenomena; the above is in fact also inferring laws from phenomena.
